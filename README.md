@@ -3,6 +3,20 @@ Sunshine with Architecture Components
 ## About
 This app is for the [Build an App with Architecture Components Codelab](https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html).
 
+
+Specifically, this is my fork of this codelab for training/educational purposes.
+
+
+As you might already know, Google has published a training lesson for the `Android Architecture Components` in cooperation w/ Udacity, as part of Udacity's course [Developing Android Apps by Google](https://www.udacity.com/course/new-android-fundamentals--ud851): `Lesson 8: Android Architecture Components`
+<br>(This course if free. You will however need to sign-up to access the course material).
+
+
+This `Architecture Components` lesson teaches the fundamentals of using ARCH. <br>If you've read Google's `Guide to App Architecture` (which you definitely should!), you'll find that Google advises to apply the "Repository" pattern in conjunction w/ ARCH, as to make better use of the "Single Responsibility Principle". 
+This "Sunshine with Architecture Components" codelab is thus one of the codelabs that implement this repository pattern.
+
+
+
+
 ## Starting Classes
 
 Below is a description of the different packages and classes in the starting app code.
@@ -27,6 +41,7 @@ All classes related to caching the data locally (it's pretty empty right now).
 
 ### `ui` package
 All activities and adapters - anything to do with display.
+
 
 ##### ui.detail package
 * `DetailActivity` - [`Activity`](https://developer.android.com/reference/android/app/Activity.html) for a single day of forecast.
