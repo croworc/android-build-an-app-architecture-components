@@ -11,7 +11,7 @@ As you might already know, Google has published a training lesson for the `Andro
 <br>(This course if free. You will however need to sign-up to access the course material).
 
 
-This `Architecture Components` lesson teaches the fundamentals of using ARCH. <br>If you've read Google's `Guide to App Architecture` (which you definitely should!), you'll find that Google advises to apply the "Repository" pattern in conjunction w/ ARCH, as to make better use of the "Single Responsibility Principle". 
+This `Architecture Components` lesson teaches the fundamentals of using ARCH. <br>If you've read Google's [Guide to App Architecture](https://developer.android.com/jetpack/docs/guide) (which you definitely should!), you'll find that Google advises to apply the "Repository" pattern in conjunction w/ ARCH, as to make better use of the "Single Responsibility Principle". 
 This "Sunshine with Architecture Components" codelab is thus one of the codelabs that implement this repository pattern.
 
 
